@@ -1,0 +1,11 @@
+com\automation\models\Booking$BookingBuilder.class
+com\automation\models\BookingDates$BookingDatesBuilder.class
+com\automation\models\AuthResponse.class
+com\automation\models\BookingDates.class
+com\automation\filters\AuthenticationFilter.class
+com\automation\models\AuthRequest$AuthRequestBuilder.class
+com\automation\models\AuthRequest.class
+com\automation\models\Booking.class
+com\automation\utils\ConfigurationManager.class
+com\automation\models\BookingResponse.class
+com\automation\utils\TestDataBuilder.class
